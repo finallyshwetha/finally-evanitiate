@@ -12,7 +12,7 @@ My personal repository
 <h1 align="center">Hi 👋, I'm Shwetha</h1>
 <h3 align="center">A Java developer</h3>
 
-- 🔭 I’m currently working on getting back to work after having a baby 😀 **work**
+- 🔭  **work**
 
 - 🌱 I’m currently learning **Springboot Framework**
 
